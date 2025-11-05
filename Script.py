@@ -5,7 +5,7 @@ class text(object):
 
 nᴜꜱᴇ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴ ᴛᴏ sᴛᴀʀᴛ ɢᴇɴᴇʀᴀᴛɪɴɢ sᴛʀɪɴɢ sᴇssɪᴏɴ
 
-<blockquote>ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://telegram.me/TechifyRahul'>ʀᴀʜᴜʟ</a></blockquote></b>"""
+<blockquote>ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://telegram.me/dotzbaikk'>dotz</a></blockquote></b>"""
 
   LOG = """👁️‍🗨️ 𝘜𝘚𝘌𝘙 𝘋𝘌𝘛𝘈𝘐𝘓𝘚
 
@@ -16,12 +16,12 @@ nᴜꜱᴇ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴ ᴛᴏ sᴛᴀʀᴛ ɢᴇɴᴇʀᴀᴛ
 
 𝘉𝘺 = @{}"""
   
-  ABOUT = """<b>‣ ᴍʏ ɴᴀᴍᴇ : <a href='https://youtube.com/@techifybots'>sᴛʀɪɴɢ sᴇssɪᴏɴ ʙᴏᴛ</a>
+  ABOUT = """<b>‣ ᴍʏ ɴᴀᴍᴇ : <a href='https://youtube.com/@bendotz'>sᴛʀɪɴɢ sᴇssɪᴏɴ ʙᴏᴛ</a>
 ‣ ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a> 
 ‣ ᴅᴀᴛᴀʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏᴅʙ</a>
 ‣ ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 𝟹</a> 
-‣ ʙᴏᴛ sᴇʀᴠᴇʀ : <a href='https://www.koyeb.com/'>ᴋᴏʏᴇʙ</a>
-‣ ᴄʀᴇᴀᴛᴇᴅ ʙʏ : <a href='https://telegram.me/callownerbot'>ʀᴀʜᴜʟ</a></b>"""
+‣ ʙᴏᴛ sᴇʀᴠᴇʀ : <a href='https://www.dotz.com/'>dotz</a>
+‣ ᴄʀᴇᴀᴛᴇᴅ ʙʏ : <a href='https://telegram.me/dotzbaikk'>dotz</a></b>"""
 
   
   HELP = """<b>{},
@@ -30,4 +30,4 @@ nᴜꜱᴇ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴ ᴛᴏ sᴛᴀʀᴛ ɢᴇɴᴇʀᴀᴛ
 
 ᴊᴜsᴛ ɢᴏ ʙᴀᴄᴋ ᴀɴᴅ ᴄʟɪᴄᴋ ᴏɴ ɢᴇɴᴇʀᴀᴛᴇ sᴛʀɪɴɢ sᴇssɪᴏɴ ʙᴜᴛᴛᴏɴ ᴀɴᴅ ᴛʜᴇɴ ꜰᴏʟʟᴏᴡ ᴛʜᴇ sᴛᴇᴘs
 
-<blockquote>ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://telegram.me/TechifyRahul'>ʀᴀʜᴜʟ</a></blockquote></b>"""
+<blockquote>ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://telegram.me/dotzbaikk'>dotz</a></blockquote></b>"""
